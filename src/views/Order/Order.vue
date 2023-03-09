@@ -1,8 +1,7 @@
 <script setup></script>
 
 <template>
-  <RouterView></RouterView>
-  <div>App</div>
+  <div>Order</div>
 </template>
 
 <style scoped></style>
